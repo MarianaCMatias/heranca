@@ -10,6 +10,7 @@ namespace heranca
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá, boa noite");
         }
     }
 }
